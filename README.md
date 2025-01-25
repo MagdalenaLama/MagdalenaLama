@@ -49,7 +49,7 @@ Construí una API backend con Node.js que incluye:
 
 ## 🌱 **Actualmente estoy aprendiendo...**
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)  
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)  
+
 
 ---
 
