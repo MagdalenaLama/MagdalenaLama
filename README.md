@@ -6,7 +6,7 @@ Soy iniciada en el desarrollo, apasionada por el **desarrollo web full stack**. 
 
 ## 🌟 **Proyectos Destacados**
 
-### [📂 Proyecto 1: Frontend E-commerce](https://github.com/MagdalenaLama/Proyecto_07_E-commerce_FullStack)
+### [📂 Frontend E-commerce](https://github.com/MagdalenaLama/Proyecto_07_E-commerce_FullStack)
 Desarrollé el frontend de una aplicación de comercio electrónico con:
 - **🔧 Tecnologías:** React, Vite, Tailwind CSS.
 - **✨ Características:**  
@@ -17,7 +17,7 @@ Desarrollé el frontend de una aplicación de comercio electrónico con:
 
 ---
 
-### [📂 Proyecto 2: Backend con Autenticación](https://github.com/MagdalenaLama/Proyecto_06_Aplicacion-Backend-con-Autorizacion)
+### [📂  Backend con Autenticación](https://github.com/MagdalenaLama/Proyecto_06_Aplicacion-Backend-con-Autorizacion)
 Construí una API backend con Node.js que incluye:
 - **🔧 Tecnologías:** Express.js, MongoDB, Swagger.
 - **✨ Características:**  
