@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy **Magdalena**!
 
-Soy iniciada en el desarrollo, apasionada por el **desarrollo web full stack**. Actualmente, estoy trabajando en proyectos de **e-commerce** y aprendiendo **Typescript**. 🚀
+Soy iniciada en el desarrollo web. 
 
 ---
 
